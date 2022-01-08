@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+.main-branch-work {
+  display: flex;
+}
+
+.single-column {
+  background-color: aquamarine;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 1px #999;
+}
